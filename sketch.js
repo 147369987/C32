@@ -9,7 +9,7 @@ var backgroundImg;
 var bg ;
 
 function preload() {
- 
+ getBackgroundImg();
 }
 
 function setup(){
